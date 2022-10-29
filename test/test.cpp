@@ -1,3 +1,4 @@
+//Sprawdza czy funkcja kwadrat jest poprawna dla zadanych liczb
 #include "../src/kwadrat.hpp"
 #include <vector>
 #include <iomanip>
